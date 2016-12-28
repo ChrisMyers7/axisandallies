@@ -1,0 +1,19 @@
+{
+  "name": "axisandallies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisMyers7/axisandallies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisMyers7/axisandallies/issues"
+  },
+  "homepage": "https://github.com/ChrisMyers7/axisandallies#readme"
+}
